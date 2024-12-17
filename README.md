@@ -1,4 +1,4 @@
-## Hi there 👋
+"Ohayo!!! My name is Daniel. I am a frontend developer. I love learning new tricky things and improving my skills, and you can see my progress in my repositories.
 
 <!--
 **DANIDIA/DANIDIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
